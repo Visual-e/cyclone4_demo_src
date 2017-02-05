@@ -1,0 +1,10 @@
+
+
+H:/projects/prj_fpga_altera/prj_VE-EP4CE10E/EP4CE10E/sourse/MarsohodII_demo_src/altpll0.v
+
+Jun 01 10AM:47:46>: Error in CNX file format.
+
+Error messages are listed in file
+H:/projects/prj_fpga_altera/prj_VE-EP4CE10E/EP4CE10E/sourse/MarsohodII_demo_src/altpll0.cnxerr.
+
+Can't create the custom megafunction variation file(s)

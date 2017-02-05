@@ -1,0 +1,13 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,hvsync:inst|Ibniz_adapter:ibnitz_adapt|Ibniz_generator0:ig7|Psin_Texture:comb_171|PseudoSin:psinV|lpm_mult:Mult1|mult_56t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,hvsync:inst|Ibniz_adapter:ibnitz_adapt|Ibniz_generator0:ig7|Psin_Texture:comb_171|PseudoSin:psinV|lpm_mult:Mult0|mult_36t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,hvsync:inst|Ibniz_adapter:ibnitz_adapt|Ibniz_generator0:ig7|Psin_Texture:comb_171|lpm_mult:Mult2|mult_36t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,hvsync:inst|Ibniz_adapter:ibnitz_adapt|Ibniz_generator0:ig7|PseudoSin:comb_170|lpm_mult:Mult1|mult_36t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,hvsync:inst|Ibniz_adapter:ibnitz_adapt|Ibniz_generator0:ig7|PseudoSin:comb_170|lpm_mult:Mult0|mult_36t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,hvsync:inst|Ibniz_adapter:ibnitz_adapt|Ibniz_generator0:ig7|Psin_Texture:comb_171|PseudoSin:psinX|lpm_mult:Mult1|mult_56t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,hvsync:inst|Ibniz_adapter:ibnitz_adapt|Ibniz_generator0:ig7|Psin_Texture:comb_171|PseudoSin:psinY|lpm_mult:Mult1|mult_56t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,hvsync:inst|Ibniz_adapter:ibnitz_adapt|Ibniz_generator0:ig7|Psin_Texture:comb_171|PseudoSin:psinX|lpm_mult:Mult0|mult_36t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,hvsync:inst|Ibniz_adapter:ibnitz_adapt|Ibniz_generator0:ig7|Psin_Texture:comb_171|PseudoSin:psinY|lpm_mult:Mult0|mult_36t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,hvsync:inst|Ibniz_adapter:ibnitz_adapt|Ibniz_generator0:ig7|lpm_mult:Mult0|mult_c6t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,hvsync:inst|Ibniz_adapter:ibnitz_adapt|Ibniz_generator0:ig7|lpm_mult:Mult1|mult_c6t:auto_generated|mac_out2,
+PORT_SWAPPING,PORT_SWAPPING_FINISHED,hvsync:inst|Ibniz_adapter:ibnitz_adapt|Ibniz_generator0:ig7|Psin_Texture:comb_171|PseudoSin:psinV|lpm_mult:Mult1|mult_56t:auto_generated|mac_mult1,

@@ -1,0 +1,5 @@
+Warning (10268): Verilog HDL information at sin_pipelined.sv(58): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at math_pipelined.sv(138): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at atan2_pipelined.sv(72): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at jupiter.v(26): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at ibniz.v(98): always construct contains both blocking and non-blocking assignments
